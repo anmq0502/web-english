@@ -11,10 +11,12 @@
 <body>
     <div class="navbar">
         <div class="navbar-left">
-            
+            <p class="navbar-total-vocab">100</p>
+            <p class="navbar-addvocab">Add Vocab</p>
         </div>
     </div>
+    <div class="container">
 
-    
+    </div>
 </body>
 </html>
